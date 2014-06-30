@@ -8,17 +8,19 @@
 
 于是把自己的笔记和答案公布在github上就成为一个很酷的选择。
 
-希望大家也能找到自己可以享受生活、享受学习的道路，Just for fun！
+因为这不是什么很正经的书，所以不要对我的更新质量和速度抱有任何的期望~
+
+希望大家也能找到自己可以享受生活、享受学习、享受战斗的道路，Just for fun！
 
 1. 学习资料
 ---
-我手上的课本是 [算法导论,第3版](http://book.douban.com/subject/20432061/)
+我手上的课本是 [算法导论-第3版-英文原版](http://book.douban.com/subject/20432061/)
 
 还看了网易的公开课 [麻省理工学院公开课：算法导论](http://v.163.com/special/opencourse/algorithms.html)
 
 2. 反馈
 ---
-欢迎大家写issue或者写邮件给我，关于算法相关的问题，当然我本人也是菜鸟一只，哈哈。
+欢迎大家写issue或者写[邮件](HardySimpson1984@gmail.com)给我，关于算法相关的问题，当然我本人也是菜鸟一只，哈哈。
 
 3. 语言(Language)
 ---
@@ -26,6 +28,10 @@
 
 For simple writeage, I use my mother language -- Chinese. If there are more than 10 people post a issue, I will consider translate it to English.LOL.
 
+4. 日志
+---
+
+2014.06.30 开始
 
 ∞. 许可证
 ---
