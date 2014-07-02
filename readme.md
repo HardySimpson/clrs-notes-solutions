@@ -31,7 +31,7 @@ For simple writeage, I use my mother language -- Chinese. If there are more than
 4. 日志
 ---
 
-2014.06.30 开始
+2014.06.30 开始，完成第一章！
 
 ∞. 许可证
 ---
