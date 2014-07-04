@@ -30,11 +30,12 @@
 ---
 为了写起来方便点，我就全部采用我的母语——中文来编写了。如果有人开issue并有10人跟帖的话，我会考虑把这些资料翻译成英语。呵呵。
 
-For simple writeage, I use my mother language -- Chinese. If there are more than 10 people post a issue, I will consider translate it to English.LOL.
+For simple writing, I use my mother language -- Chinese. If there are more than 10 people post a issue, I will consider translate it to English.LOL.
 
 4. 日志
 ---
 
+2014.07.04 完成第二章！
 2014.06.30 开始，完成第一章！
 
 ∞. 许可证
