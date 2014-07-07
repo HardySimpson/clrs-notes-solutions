@@ -1,5 +1,6 @@
 # 算法小论 #
----
+
+
 0. 缘起
 ---
 在写了一些开源软件和程序，接触了一些业界牛人后，我发现自己虽然在计算机这个行业工作了六七年，但对于算法还水平很一般，本科是学物理的:)
@@ -21,6 +22,8 @@
 我手上的课本是 [算法导论-第3版-英文原版](http://book.douban.com/subject/20432061/)
 
 还看了网易的公开课 [麻省理工学院公开课：算法导论](http://v.163.com/special/opencourse/algorithms.html)
+
+以及老师自己写的导师手册-第2版 [Instructor's Manual](http://www.amazon.com/Introduction-Algorithms-Instructors-Manual-Edition/dp/1495319288)，也就是标准答案啦
 
 2. 反馈
 ---
